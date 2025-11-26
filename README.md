@@ -123,6 +123,6 @@ Get Started → npm create tribe-app@latest
 🎮 Live Demo |
 🐛 Report Issues
 
-Built with ❤️ for Kenyan Businesses | Tribe Loyalty System v2.0
+Tribe in the making | Tribe Loyalty System v2.0
 
 </div> ```
