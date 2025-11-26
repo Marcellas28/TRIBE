@@ -22,7 +22,7 @@
 
 ### 💰 Real-time Transaction Tracking
 
-```typescript
+typescript
 // Live Sales Monitoring
 interface TransactionSystem {
   realTime: "30-second auto-refresh",
@@ -125,4 +125,4 @@ Get Started → npm create tribe-app@latest
 
 Tribe in the making | Tribe Loyalty System v2.0
 
-</div> ```
+</div> 
