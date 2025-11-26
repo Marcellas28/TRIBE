@@ -22,7 +22,7 @@
 
 ### 💰 Real-time Transaction Tracking
 
-
+```
 // Live Sales Monitoring
 interface TransactionSystem {
   realTime: "30-second auto-refresh",
@@ -115,5 +115,5 @@ bash
 🐛 Report Issues
 
 Tribe in the making | Tribe Loyalty System v2.0
-
+```
 </div>  
