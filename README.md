@@ -1,20 +1,28 @@
-🏪 Tribe Loyalty & Inventory Management System
-<div align="center">
-https://readme-typing-svg.herokuapp.com/?font=monospace&color=00FF00&size=25&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%8F%AA+TRIBE+LOYALTY+SYSTEM;%F0%9F%93%B1+Multi-tenant+Architecture;%F0%9F%94%90+JWT+Authentication;%F0%9F%92%B0+Real-time+Transactions;%F0%9F%93%8A+Inventory+Management;%F0%9F%8E%AF+Role-based+Access;%E2%9A%A1+React+TypeScript
-
-</div>
-🎥 System Overview
+# 🏪 Tribe Loyalty & Inventory Management System
 
 <div align="center">
-https://readme-typing-svg.herokuapp.com/?font=monospace&color=00FF00&size=20&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%9A%80+Starting+Tribe+System...;%F0%9F%94%90+Initializing+Authentication...;%F0%9F%8F%AA+Loading+Merchant+Dashboard...;%F0%9F%93%8A+Ready+for+Business!
+
+![Tribe System](https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00&size=25&center=true&vCenter=true&width=800&height=80&lines=🏪+TRIBE+LOYALTY+SYSTEM;📱+Multi-tenant+Architecture;🔐+JWT+Authentication;💰+Real-time+Transactions;📊+Inventory+Management;🎯+Role-based+Access;⚡+React+TypeScript)
 
 </div>
 
+## 🎥 System Overview
 
-https://readme-typing-svg.herokuapp.com/?font=monospace&color=00FF00&size=18&center=true&vCenter=true&width=800&height=30&lines=%E2%9C%85+Multi-tenant+JWT+Authentication+%E2%9C%85+Role-based+Access+Control+%E2%9C%85+Automatic+Session+Management+%E2%9C%85+Secure+Token+Storage
+<div align="center">
 
-💰 Real-time Transaction Tracking
-typescript
+![System Startup](https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00&size=20&center=true&vCenter=true&width=600&height=40&lines=🚀+Starting+Tribe+System...;🔐+Initializing+Authentication...;🏪+Loading+Merchant+Dashboard...;📊+Ready+for+Business!)
+
+</div>
+
+## 🎯 Key Features
+
+### 🔐 Smart Authentication System
+
+![Authentication](https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00&size=18&center=true&vCenter=true&width=800&height=30&lines=✅+Multi-tenant+JWT+Authentication+✅+Role-based+Access+Control+✅+Automatic+Session+Management+✅+Secure+Token+Storage)
+
+### 💰 Real-time Transaction Tracking
+
+```typescript
 // Live Sales Monitoring
 interface TransactionSystem {
   realTime: "30-second auto-refresh",
@@ -23,12 +31,9 @@ interface TransactionSystem {
   alerts: "Instant notification system"
 }
 <div align="center">
-https://readme-typing-svg.herokuapp.com/?font=monospace&color=00FF00&size=16&center=true&vCenter=true&width=700&height=25&lines=%F0%9F%94%84+Real-time+Transaction+Updates+%F0%9F%93%B1+MPesa+Payment+Integration+%F0%9F%92%B0+Instant+Sales+Tracking+%F0%9F%93%8A+Live+Revenue+Analytics
+https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00&size=16&center=true&vCenter=true&width=700&height=25&lines=%F0%9F%94%84+Real-time+Transaction+Updates+%F0%9F%93%B1+MPesa+Payment+Integration+%F0%9F%92%B0+Instant+Sales+Tracking+%F0%9F%93%8A+Live+Revenue+Analytics
 
 </div>
-
-
-
 📊 Live Dashboard Preview
 typescript
 // Merchant Dashboard Features
@@ -40,7 +45,7 @@ const dashboardFeatures = {
   analytics: "Business intelligence"
 };
 <div align="center">
-https://readme-typing-svg.herokuapp.com/?font=monospace&color=00FF00&size=16&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%8F%AA+Welcome+to+Merchant+Dashboard;%F0%9F%92%B0+Today's+Sales:+KShs+45,670+;%F0%9F%93%A6+Low+Stock+Alerts:+2+Items;%F0%9F%91%A5+Active+Users:+24;%F0%9F%8E%AF+System+Status:+All+Systems+Go!
+https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00&size=16&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%8F%AA+Welcome+to+Merchant+Dashboard;%F0%9F%92%B0+Today's+Sales:+KShs+45,670+;%F0%9F%93%A6+Low+Stock+Alerts:+2+Items;%F0%9F%91%A5+Active+Users:+24;%F0%9F%8E%AF+System+Status:+All+Systems+Go!
 
 </div>
 🔄 Real-time Features
@@ -62,7 +67,6 @@ interface NotificationEngine {
   system: "Performance monitoring",
   security: "Authentication events"
 }
-
 🎭 User Roles & Permissions
 typescript
 // Role-based Access Matrix
@@ -83,13 +87,11 @@ const rolePermissions = {
     dashboard: "Sales Interface"
   }
 };
-
 <div align="center">
 🎯 System Status
-https://readme-typing-svg.herokuapp.com/?font=monospace&color=00FF00&size=14&center=true&vCenter=true&width=800&height=100&lines=%E2%9C%85+Authentication:+JWT+Tokens+Active+%E2%9C%85+Multi-tenancy:+Merchant+Isolation+Enabled+%E2%9C%85+Real-time:+Live+Transaction+Tracking+%E2%9C%85+Inventory:+Smart+Stock+Management+%E2%9C%85+Security:+Role-based+Access+Control+%E2%9C%85+Performance:+Optimized+for+Production
+https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00&size=14&center=true&vCenter=true&width=800&height=100&lines=%E2%9C%85+Authentication:+JWT+Tokens+Active+%E2%9C%85+Multi-tenancy:+Merchant+Isolation+Enabled+%E2%9C%85+Real-time:+Live+Transaction+Tracking+%E2%9C%85+Inventory:+Smart+Stock+Management+%E2%9C%85+Security:+Role-based+Access+Control+%E2%9C%85+Performance:+Optimized+for+Production
 
 </div>
-
 🌟 Why Choose Tribe?
 bash
 🚀 Enterprise Ready
@@ -113,9 +115,9 @@ bash
    ├ Local business needs
 <div align="center">
 🎊 Ready to Transform Your Business?
-https://readme-typing-svg.herokuapp.com/?font=monospace&color=00FF00&size=20&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%9A%80+Start+with+Tribe+Today!;%F0%9F%8F%AA+Modern+Loyalty+System;%F0%9F%92%B0+Real-time+Business+Insights;%F0%9F%8E%AF+Built+for+Kenyan+Market
+https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00&size=20&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%9A%80+Start+with+Tribe+Today!;%F0%9F%8F%AA+Modern+Loyalty+System;%F0%9F%92%B0+Real-time+Business+Insights;%F0%9F%8E%AF+Built+for+Kenyan+Market
 
-
+Get Started → npm create tribe-app@latest
 
 📚 Documentation |
 🎮 Live Demo |
@@ -123,4 +125,4 @@ https://readme-typing-svg.herokuapp.com/?font=monospace&color=00FF00&size=20&cen
 
 Built with ❤️ for Kenyan Businesses | Tribe Loyalty System v2.0
 
-</div>
+</div> ```
